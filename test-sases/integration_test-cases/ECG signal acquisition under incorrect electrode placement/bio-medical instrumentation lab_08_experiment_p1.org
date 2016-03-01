@@ -17,10 +17,11 @@
    - Nil
 * Test Steps
   1.Refer to  [[https://github.com/Virtual-Labs/Bio-Medical-Instrumentation-Lab-iitr/blob/master/test-cases/integration_test-cases/ECG signal acquisition under incorrect electrode placement/bio-medical instrumentation lab_05_experiment_smk.org][bio-medical instrumentation lab_05_experiment_smk.org]] 
-  2. Click on 'Update' Button to install the update file of the experiment
+  2. Click on 'Installer' Button to install the installer file of the experiment
 
 * Expected result
   1. Refer to [[https://github.com/Virtual-Labs/Bio-Medical-Instrumentation-Lab-iitr/blob/master/test-cases/integration_test-cases/ECG signal acquisition under incorrect electrode placement/bio-medical instrumentation lab_05_experiment_smk.org][bio-medical instrumentation lab_05_experiment_smk.org]]
-  2. It should start the downloading of update file and after downloading install the update file in the system 
+  2. It should start the downloading of installer file and after downloading install the installer file in the system
+  3. It should create the 'LCecg' folder in the C directory of the system
 
 * Review comments
